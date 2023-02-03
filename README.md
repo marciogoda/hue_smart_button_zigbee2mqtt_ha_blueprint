@@ -1,0 +1,1 @@
+# hue_smart_button_zigbee2mqtt_ha_blueprint
